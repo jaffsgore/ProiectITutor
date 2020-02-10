@@ -1,0 +1,82 @@
+body{
+    background-image: linear-gradient(90deg,rgb(143, 226, 143),rgb(34, 133, 100),rgb(2, 39, 54));
+    height: 3000px;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Love Ya Like A Sister', cursive;
+    text-align: center;
+    margin-top: 120px;
+    color: rgb(57, 223, 112);
+    border: rgba(13, 73, 8, 0.733) solid 2px;
+    border-radius: 7px;
+    margin-left: 260px;
+    margin-right: 260px;
+    background-color: rgba(251, 251, 251, 0.054);
+}
+h1:hover{
+    color:  darkorange;
+}
+.box{
+    width: 240px;
+    height: 240px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    border-radius: 4px;
+    margin-left: 110px;
+    margin-top: 60px;
+    font-size: 25px;    
+    font-family: 'Coming Soon', cursive;
+}
+#box1{
+    background-color: rgba(48, 179, 212, 0.883);
+}
+#box2{
+    background-image: linear-gradient(125deg, rgb(48, 180, 212),rgb(200, 77, 77));
+}
+#box3{
+    background-color: rgba(205, 92, 92, 0.938);
+}
+p{
+    padding-top: 80px;
+}
+.buton{
+    background-color: rgba(46, 118, 200, 0.328);
+    font-family: 'Coming Soon', cursive;
+    font-size: 17px;
+    border-radius: 7px;
+}
+
+#frame{
+    margin-top: 140px;
+    border: 1px solid rgb(48, 233, 16);
+    border-radius: 7px;
+    filter: opacity(85%)
+}  
+.icon{
+    font-size: 25px;
+    color: rgb(36, 26, 26);
+    margin-left: 50px;
+    
+}
+#rosu{
+    color: rgba(233, 23, 23, 0.849);
+    
+}
+#galben{
+    color: coral;
+}
+#verde{
+    color: darkorange;
+}
+ul{
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Coming Soon', cursive;
+    background-color: rgba(154, 52, 197, 0.15);
+}
+p{
+    text-align: center;
+}
