@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(209, 207, 212);
+}
+h1{
+    font-size: 60px;
+    font-family: 'Crafty Girls',Arial, Helvetica, sans-serif;
+    color: rgb(255, 115, 0);
+    text-align: center;
+    margin-top: 100px;
+    border: 1px solid rgba(3, 138, 109, 0.767);
+    border-radius: 4px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
