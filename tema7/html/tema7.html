@@ -9,13 +9,28 @@
 </head>
 <h1>Homework 7</h1>
 <body>
+    <div class="formular">
+    <fieldset>
+        <legend><strong>Formular</strong></legend>
     <form action="/tema7.php" target="_blank" method="post">
         <label for="fname">Nume:</label><br>
-        <input type="text" id="fname" name="fname" value=""><br>
+        <input type="text" id="fname" name="fname" value="" required><br>
         <label for="lname">Prenume:</label><br>
-        <input type="text" id="lname" name="lname" value=""><br><br><br>
+        <input type="text" id="fname" name="fname" value="" required><br> 
+        <select id="sex" name="sex">
+            <option value="Barbat">Barbat</option>
+            <option value="Femeie">Femeie</option>
+          </select> 
         <input type="submit" value="Submit">
+        <input type="reset">
       </form>
+    </fieldset>
+</div>
+<p class="p">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate porro eligendi qui?</p>
+<img src="https://images.unsplash.com/photo-1484821582734-6c6c9f99a672?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=891&q=80" alt="">
+<p id="demo">Mergi in vacanta!</p>
+<button type="button" onclick="myFunction()">Apasa-l</button>
     
+<script src="js/tema7.js"></script>
 </body>
-</html>
+</html> 
