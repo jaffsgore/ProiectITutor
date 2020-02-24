@@ -1,0 +1,32 @@
+Salut, Daniel!
+
+1) Va rog sa-mi spuneti diferenta dintre GET si POST.
+
+Din cate am inteles, diferenta intre atributul GET si POST este urmatoarea: GET va trimite formularul catre PHP, insa datele completate in formular vor fi vizibile pentru utilizator in URL, astfel este recomandat sa se foloseasca POST.
+
+Intrebari:
+
+Avand in vedere ca am ramas putin in urma cu informatia asimilata - ma refer la PHP, JS si intampin mici dificulati si la uploadarea documentelor ca si director pe GIT.\
+
+1. Cum pot uploada documentele direct din VS CODE in GIT?
+2. Pentru: 
+
+function myFunction() {
+    document.getElementById("demo").innerHTML = "Acum!";
+   }
+   var orase = ["BAICOI", "CRAIOVA", "IASI", "SLOBOZIA"];
+document.getElementById("demo").innerHTML = orase;
+
+function myFunction() {
+  orase.push("CARACAL");
+  document.getElementById("demo").innerHTML = orase;
+}
+
+De ce imi ia in considerare variabilele si le afiseaza ca atare, desi in paragraful din html imi scrie altceva?
+
+
+3.Din ce am lucrat in PHP pana in prezent, nu am inteles unde sau cand ar trebui sa se produca legatura intre codul din html si PHP.
+
+
+
+Multumesc frumos pentru ajutor si pentru initiativa pe care o ai.
