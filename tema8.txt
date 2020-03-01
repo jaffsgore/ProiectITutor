@@ -1,0 +1,17 @@
+1.	Pentru exemplul urmator:
+2.	.dropdown-content {
+3.	  display: none;
+4.	  position: absolute;
+5.	  background-color: #f9f9f9;
+6.	  min-width: 160px;
+7.	  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+8.	  z-index: 1;
+9.	}
+10.	Ce reprezinta acel “ z-index”?	
+
+2. Care este diferenta intre SVG si Canvas sic and anume sunt recomandate sa fie utilizate?
+
+3. Ce reprezinta DOM?
+
+
+4. Nu am inteles cum se configureaza HeidiSQL. 

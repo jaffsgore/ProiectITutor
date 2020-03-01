@@ -1,0 +1,74 @@
+body{
+background-color: azure;
+margin: 0;
+}
+h1{
+   font-size: 75px;
+   text-align: center;
+   margin-top: 80px;
+   font-family: 'Quicksand', Arial, Helvetica, sans-serif ;
+   color: rgb(23, 110, 61);
+}
+.p{
+    font-family: 'Inconsolata',Arial, Helvetica, sans-serif ;
+    font-size: 30px;
+    text-align: center;
+}
+#Canvas{
+    background-color: rgba(138, 46, 46, 0.692);
+    margin-top: 50px;
+    margin-left: 415px;
+}
+.svg{
+    margin-left: 525px;
+    margin-top: 40px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(27, 143, 23, 0.726);
+    font-size: 20px;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif ;
+
+  }
+  li {
+    float: left;
+    border-right:1px solid rgb(255, 255, 255);
+  }
+  li a, .dropbtn {
+    display: inline-block;
+    color: rgb(7, 6, 6);
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+  }
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color: rgba(11, 236, 67, 0.808);
+  }
+  li.dropdown {
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #82cf82;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  .dropdown-content a:hover {background-color: #f1f1f1;}
+  .dropdown:hover .dropdown-content {
+    display: block;
+  } 
+  li:last-child {
+  border-right: none;
+}
